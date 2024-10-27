@@ -1,0 +1,29 @@
+# Indentation 
+
+def my_function():
+    print("Hello")
+    print("World")
+
+my_function()
+
+# this is a full manifestation of indentation(space like pararagh)
+# if one of the instruction isn't indented,it won't be included when the function is defined
+# e.g
+# def my_function():
+#     print("Hello")
+# print("World")
+
+# my_function()
+
+# indetattion blocks(if,function,elif block)
+# def my_function():
+#     if sky =="clear":
+#         print("blue")
+
+#     elif sky =="cloudy":
+#         print("grey")
+#     print("Hello")
+# print("World")
+
+
+# While loops
