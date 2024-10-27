@@ -86,3 +86,5 @@
 # move()
 # turn_right()
 # move()
+
+# to turn right means three turn left
