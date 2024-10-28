@@ -37,6 +37,8 @@ my_function()
 # 2. for number in range(a,b):
 #     print(number)
 
+# for loops are great when u want to iterate over something and you need to do something with each things u are iterating
+
 # While loops
 # while something_is_true
     # Do something repeatedly
