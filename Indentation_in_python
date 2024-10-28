@@ -27,3 +27,59 @@ my_function()
 
 
 # While loops
+# While Loops runs as long loops as long as the condition is true
+
+# Difference btw for loops and while loops
+# for loops:exist in two forms
+# 1. for items in list_of_items:
+#     Do something to each item
+
+# 2. for number in range(a,b):
+#     print(number)
+
+# While loops
+# while something_is_true
+    # Do something repeatedly
+# until the condition is False,the loop will keep running
+
+# now how to use while loop to solve our previous hurdles char instead of for loops
+# def turn_right():
+#    turn_left()
+#    turn_left()
+#    turn_left()
+
+# def jump():
+#     move()
+#     turn_left()
+#     move()
+#     turn_right()
+#     move()
+#     turn_right()
+#     move()
+#     turn_left()
+    
+# number_of_hurdles = 6
+# while number_of_hurdles >0 :
+#     jump()
+#     number_of_hurdles -= 1
+#     print(number_of_hurdles)
+
+# How to use to while loops with conditions in the reebrog robot
+# def turn_right():
+#    turn_left()
+#    turn_left()
+#    turn_left()
+
+# def jump():
+#     move()
+#     turn_left()
+#     move()
+#     turn_right()
+#     move()
+#     turn_right()
+#     move()
+#     turn_left()
+    
+# while not at_goal():
+#     jump()
+   
